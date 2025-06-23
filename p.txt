@@ -1,0 +1,7 @@
+               json server creation  
+
+               1)first create a folder named server or backend
+               2)  terminalil  npm init -y  (package .json file create cheyyan ahn ee comnamd)
+               3)json server install cheyyan  - npm i json-server
+               4) create index.js file (main file)
+               5)craete db.json file for storing data

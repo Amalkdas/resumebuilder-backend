@@ -2,8 +2,8 @@
   "name": "resumebuild",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-   "start" : "node index.js"
+ "scripts": {
+   "start": "npx json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
